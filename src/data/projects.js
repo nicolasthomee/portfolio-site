@@ -18,7 +18,7 @@ const projects = [
     ],
     technologies: ['React', 'JavaScript', 'CSS3', 'API de contato'],
     repoUrl: 'https://github.com/',
-    liveUrl: 'https://alohaturismo.com',
+    liveUrl: 'https://aloha-turismo.netlify.app/',
     banner:
       'https://neon.com.br/aprenda/wp-content/uploads/2023/12/viajar-de-onibus.png',
     screenshots: [
